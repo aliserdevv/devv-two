@@ -1,0 +1,69 @@
+body{
+    background: chartreuse;
+}
+.lex{
+    color: violet;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 55px;
+}
+.lexus-hit{
+    width: 220px;
+    height: 220px;
+    border: none;
+    border-radius: 9px;
+}
+.title{
+    color: aliceblue;
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.img{
+    width: 950px;
+    height: 550px;
+    cursor: pointer;
+}
+.insta{
+    width: 140px;
+    height: 45px;
+    background: deeppink;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.kgz{
+    width: 130px;
+    height: 55px;
+    background: yellow;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.about{
+    width: 115px;
+    height: 50px;
+    background: red;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.tel{
+    width: 100px;
+    height: 40px;
+    background: royalblue;
+    color: white;
+    font-size: 19px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.sub{
+    cursor: pointer;
+}
